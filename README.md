@@ -22,7 +22,7 @@ There are 5 different sizes of bottle opener to suit the different sizes of plas
 
 ### 3. Bill of Materials
 
-The [Bill of Materials](/Documentation/Bottle_Opener_BOM.xlsx) lists the cost of building the different sizes of Bottle Openers.
+The [Bill of Materials](/Documentation/Bottle_Opener_BOM_V1.0.csv) lists the cost of building the different sizes of Bottle Openers.
 
 ## Files
 ### Documentation
@@ -35,7 +35,7 @@ The [Bill of Materials](/Documentation/Bottle_Opener_BOM.xlsx) lists the cost of
 | Maker Checklist       | 1.0     | [Bottle_Opener_Maker_Checklist](/Documentation/Bottle_Opener_Maker_Checklist_V1.0.pdf)     |
 | User Guide            | 1.0     | [Bottle_Opener_User_Guide](/Documentation/Bottle_Opener_User_Guide_V1.0.pdf)    |
 | Changelog             | 1.0     | [Bottle_Opener_Changelog](/Documentation/Bottle_Opener_Changelog_V1.0.pdf)     |
-| Printable Sizing Chart| 1.0     | [Bottle_Opener_Changelog](/Documentation/Bottle_Opener_Printable_Sizing_Chart.pdf)     |
+| Printable Sizing Chart| 1.0     | [Bottle_Opener_Printable_Sizing_Chart](/Documentation/Bottle_Opener_Printable_Sizing_Chart.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
