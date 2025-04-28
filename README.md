@@ -37,15 +37,23 @@ The [Bill of Materials](/Documentation/Bottle_Opener_BOM_V1.0.csv) lists the cos
 | Printable Sizing Chart| 1.0     | [Bottle_Opener_Printable_Sizing_Chart](/Documentation/Bottle_Opener_Printable_Sizing_Chart.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files)
+ - [CAD Files](/Design_Files/CAD_Files/)
+   - [STEP Files](/Design_Files/CAD_Files/Step_Files/)
+   - [Autodesk Fusion Files](/Design_Files/CAD_Files/Autodesk_Fusion/)
+   - [Profile Sketch](/Design_Files/CAD_Files/Bottle_Opener_40_Sketch.png)
+
 
 ### Build Files
  - [3D Printing Files](/Build_Files)
 
 ## Attribution
-Designers:
- - Neil Squire / Makers Making Change
+The source of the original design is unknown. Various improvement and documentation have been completed by the Neil Squire Society / Makers Making Change.
 
+### Contributors
+ - Amanda Tuey. Neil Squire / Makers Making Change.
+ - Kristina Mok. Neil Squire / Makers Making Change.
+ - Taz Oldaker. Neil Squire / Makers Making Change.
+ - Jake McIvor. Neil Squire / Makers Making Change.
 
 
 ## License
